@@ -66,7 +66,7 @@ const removeWords = ["aboard",
   "with",
   "within",
   "without",
-  "and", "the", "to", "of", "a", "for", "", "is", "are", "can", "were", "that"]
+  "and", "the", "to", "of", "a", "for", "", "is", "are", "can", "were", "that", "you"]
 
 
 
